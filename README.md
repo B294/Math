@@ -1,1 +1,1 @@
-# Scratch Trending Page
+# Scratch Trending
